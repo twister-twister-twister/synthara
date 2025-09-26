@@ -1,0 +1,2 @@
+# synthara
+synthara ai
